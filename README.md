@@ -1,4 +1,4 @@
-# ![FlexxyDrive](https://flexxydrive.com/logo.svg)
+# ![FlexxyDrive](https://flexxydrive.com/logo2.svg)
 
 # FlexxyDrive Backend
 
